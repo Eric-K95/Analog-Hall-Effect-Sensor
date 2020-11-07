@@ -1,4 +1,6 @@
 //Using a Analog hall switch with LEDs
+//Designed by JIN-WOO KIM
+
 const int sensorPin = A0; //select the input pin for the potentiometer
 int digitalPin = 8; //D0 attach to pin8
 int sensorValue = 0; //variable to store the value coming from A0
