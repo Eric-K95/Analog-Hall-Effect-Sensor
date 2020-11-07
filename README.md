@@ -1,1 +1,2 @@
 # Analog-Hall-Effect-Sensor
+The hall effect sensor is used to measure the magnitude of a magnetic field. There are two types of Hall effect sensors, which are digital hall sensor and analog hall sensor. The digital hall sensor can only detect if a magnet is present or not (0 or 1). The analog hall sensor is an analog signal based on the intensity of a magnetic field. Hall effect sensors are used for positioning, speed detection, and current sensing applications. In this exercise, using the South pole of the magnet to see the LED turn on when the value increases.
